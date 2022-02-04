@@ -1,0 +1,82 @@
+html {
+    box-sizing: border-box;
+    font-size: 1.4rem;
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Quintessential', cursive;
+    font-size: 1.8rem; /* 18px */
+    font-weight: 400;
+    line-height: 1;
+    background-color: #D9D9D9;
+}
+  
+h1,
+h3 {
+    font-family: 'Rowdies', cursive;
+    font-weight: 600;
+    text-align: center;
+}
+  
+h1 {
+    font-size: 3.8rem;
+}
+  
+h3 {
+    font-size: 2rem;
+    font-family: 'Quintessential', cursive;
+}
+  
+ul {
+    list-style: none;
+}
+  
+a {
+    text-decoration: none;
+}
+  
+img {
+    display: block;
+    width: 100%;
+}
+
+/* nav */
+.nav {
+    background-color: #8800C7;
+    display: flex;
+    justify-content: flex-end;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 4.5rem; 
+    z-index: 10;
+}
+  
+.nav-list {
+    margin-top: .9rem;
+    display: flex;
+    margin-right: 2rem;
+}
+
+.nav-list a {
+    display: block;
+    font-size: 1.3rem;
+    padding: 1rem;
+    color: #D9D9D9;
+}
+
+.nav-list a:hover {
+    color: #5EC5D4;
+    transform: scale(1.5);
+}
+
+/* welcome section */
+.welcome-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+}
