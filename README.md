@@ -23,7 +23,7 @@
 
 - My portfolio should have a link with an id of profile-link, which opens my GitHub or FCC profile in a new tab.✅
 
--  My portfolio should have at least one media query.
+-  My portfolio should have at least one media query.✅
 
 -  The height of the welcome section should be equal to the height of the viewport.
 
