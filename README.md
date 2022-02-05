@@ -9,7 +9,7 @@
 ### *Requirements*
 - My portfolio should have a welcome section with an id of welcome-section.✅
 
-- The welcome section should have an h1 element that contains text.
+- The welcome section should have an h1 element that contains text.✅
 
 - My portfolio should have a projects section with an id of projects.
 
