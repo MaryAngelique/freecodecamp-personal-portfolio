@@ -19,7 +19,7 @@
 
 - My portfolio should have a navbar with an id of navbar.✅
 
-- The navbar should contain at least one link that I can click on to navigate to different sections of the page.
+- The navbar should contain at least one link that I can click on to navigate to different sections of the page.✅
 
 - My portfolio should have a link with an id of profile-link, which opens my GitHub or FCC profile in a new tab.
 
