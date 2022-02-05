@@ -15,7 +15,7 @@
 
 - The projects section should contain at least one element with a class of project-tile to hold a project.✅
 
-- The projects section should contain at least one link to a project.
+- The projects section should contain at least one link to a project.✅
 
 - My portfolio should have a navbar with an id of navbar.
 
