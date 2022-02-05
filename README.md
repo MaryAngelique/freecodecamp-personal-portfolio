@@ -17,7 +17,7 @@
 
 - The projects section should contain at least one link to a project.✅
 
-- My portfolio should have a navbar with an id of navbar.
+- My portfolio should have a navbar with an id of navbar.✅
 
 - The navbar should contain at least one link that I can click on to navigate to different sections of the page.
 
