@@ -13,7 +13,7 @@
 
 - My portfolio should have a projects section with an id of projects.✅
 
-- The projects section should contain at least one element with a class of project-tile to hold a project.
+- The projects section should contain at least one element with a class of project-tile to hold a project.✅
 
 - The projects section should contain at least one link to a project.
 
