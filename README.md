@@ -11,7 +11,7 @@
 
 - The welcome section should have an h1 element that contains text.✅
 
-- My portfolio should have a projects section with an id of projects.
+- My portfolio should have a projects section with an id of projects.✅
 
 - The projects section should contain at least one element with a class of project-tile to hold a project.
 
